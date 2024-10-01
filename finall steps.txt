@@ -1,3 +1,4 @@
 terraform init                      # Initialize the Terraform configuration
 terraform validate               # Validate the Terraform code
+terraform plan
 terraform apply                   # Apply the configuration
